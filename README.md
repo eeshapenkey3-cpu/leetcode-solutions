@@ -1,4 +1,4 @@
-### LeetCode Practice
+# LeetCode Practice
 A collection of LeetCode solutions synced automatically. This repository tracks my progress in Data Structures and Algorithms as I explore different programming languages and methodologies through my studies.
 
 ## Languages & Tools
