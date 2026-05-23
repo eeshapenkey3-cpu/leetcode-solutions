@@ -1,3 +1,10 @@
+## **thinking**
+n = nums.length  
+ans = 2n which is 2.(nums.length)  
+nums[0] -> ans[0] and ans[3]  
+for loop int i = 0; i < nums.length, i++  
+ans[i + nums.length] = nums[i]; - > offsets, so like keep the value at e.g. 0 then 0 + 3 which is the 4th position  
+
 <h2><a href="https://leetcode.com/problems/concatenation-of-array">Concatenation of Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code> of length <code>n</code>, you want to create an array <code>ans</code> of length <code>2n</code> where <code>ans[i] == nums[i]</code> and <code>ans[i + n] == nums[i]</code> for <code>0 &lt;= i &lt; n</code> (<strong>0-indexed</strong>).</p>
 
 <p>Specifically, <code>ans</code> is the <strong>concatenation</strong> of two <code>nums</code> arrays.</p>
