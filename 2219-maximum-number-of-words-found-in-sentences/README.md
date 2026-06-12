@@ -1,3 +1,8 @@
+## thinking
+<img width="457" height="344" alt="image" src="https://github.com/user-attachments/assets/9ab093e4-29eb-4853-bd16-3e0215673b70" />
+<img width="506" height="316" alt="image" src="https://github.com/user-attachments/assets/7358091a-6b21-49df-bf28-d951e142f0fa" />
+
+
 <h2><a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences">Maximum Number of Words Found in Sentences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>sentence</strong> is a list of <strong>words</strong> that are separated by a single space&nbsp;with no leading or trailing spaces.</p>
 
 <p>You are given an array of strings <code>sentences</code>, where each <code>sentences[i]</code> represents a single <strong>sentence</strong>.</p>
