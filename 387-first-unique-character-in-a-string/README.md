@@ -1,3 +1,6 @@
+# thinking
+<img width="1352" height="1521" alt="Screenshot_2026-06-13-20-11-38-58_8218ad734a8157e87572f0f6e2674adf~2" src="https://github.com/user-attachments/assets/42b98ded-d189-4444-be89-f715000aa38f" />
+
 <h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string">First Unique Character in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code>, find the <strong>first</strong> non-repeating character in it and return its index. If it <strong>does not</strong> exist, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
